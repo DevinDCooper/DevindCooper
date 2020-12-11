@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello World! 
 
-<!--
-**DevinDCooper/DevindCooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------------
+My name is Devin Cooper! Im a software engineer who is passionate about being Creative and sovling problems that help make the world a better place.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Ux/Ui(to help me understand design)
+- 👯 I’m looking to collaborate on with any Frontend or Ux/UI Designer 
+- 🤔 I’m looking for help with Learning Ux/UI and Frontend Tips 
+- 💬 Ask me about Anything!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devin-d-cooper/)
+- ⚡ Fun fact: I love to Make music! 
+--------------
