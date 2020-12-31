@@ -5,7 +5,7 @@ My name is Devin Cooper! Im a software engineer who is passionate about being Cr
 
 
 - 🌱 I’m currently learning Ux/Ui(to help me understand design)
-- 👯 I’m looking to collaborate on with any Frontend or Ux/UI Designer 
+- 👯 I’m looking to collaborate  with any Frontend or Ux/UI Designer 
 - 🤔 I’m looking for help with Learning Ux/UI and Frontend Tips 
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devin-d-cooper/)
