@@ -9,5 +9,5 @@ My name is Devin Cooper! Im a software engineer who is passionate about being Cr
 - 🤔 I’m looking for help with Learning Ux/UI and Frontend Tips 
 - 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devin-d-cooper/)
-- ⚡ Fun fact: I love to Make music! 
+- ⚡ Fun fact: I love to create! 
 --------------
