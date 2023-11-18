@@ -1,13 +1,13 @@
 ## Hello World! 
 
 -------------
-My name is Devin Cooper! Im a software engineer who is passionate about being Creative and sovling problems that help make the world a better place.
+Greetings! I'm Devin Cooper, a dedicated software engineer/UX Designer driven by a passion for creativity and problem-solving to contribute positively to the world.
+
+👯 I'm open to collaboration with talented Frontend Developers or UX/UI Designers who share a common enthusiasm for creating impactful solutions.
+
+💬 Feel free to ask me anything! I'm here to share insights, exchange ideas, and connect with like-minded individuals.
 
 
-- 🌱 I’m currently learning Ux/Ui(to help me understand design)
-- 👯 I’m looking to collaborate  with any Frontend or Ux/UI Designer 
-- 🤔 I’m looking for help with Learning Ux/UI and Frontend Tips 
-- 💬 Ask me about Anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/devin-d-cooper/)
 - ⚡ Fun fact: I love to create! 
 --------------
